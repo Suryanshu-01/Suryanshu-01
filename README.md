@@ -1,5 +1,24 @@
-# 💫 About Me:
-## 👋 Hi there, I'm Suryanshu  <br><br>🔭 I’m currently working on  <br>- Building projects and improving my development skills  <br>- Exploring open-source contributions  <br>- Learning modern technologies and tools  <br><br>👯 I’m looking to collaborate on  <br>- Beginner-friendly open-source projects  <br>- Web development and creative tech ideas  <br>- Student developer communities  <br><br>🤝 I’m looking for help with  <br>- Writing clean and scalable code  <br>- Real-world project architecture  <br>- Open-source best practices  <br><br>🌱 I’m currently learning  <br>- Full-stack development  <br>- Data Structures & Algorithms  <br>- Git, GitHub, and developer workflows  <br><br>💬 Ask me about  <br>- College life as a developer  <br>- Beginner coding journeys  <br>- Productivity and learning resources  <br><br>⚡ Fun fact  <br>I enjoy turning ideas into projects and learning something new every day 🚀
+### 👋 Hi there, I'm Suryanshu
+
+🔭 Currently working on
+- Building projects & improving skills
+- Exploring open-source
+- Learning modern technologies
+
+👯 Looking to collaborate on
+- Beginner-friendly projects
+- Web development ideas
+
+🌱 Currently learning
+- Full-stack development
+- DSA & Git/GitHub
+
+💬 Ask me about
+- Coding journey
+- Student developer life
+
+⚡ Fun fact
+I love turning ideas into projects 🚀
 
 
 ## 🌐 Socials:
