@@ -1,37 +1,137 @@
-### 👋 Hi there, I'm Suryanshu
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Kumar%20Suryanshu&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=SDE%20Intern%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="Kumar Suryanshu" width="100%"/>
 
-🔭 Currently working on
-- Building projects & improving skills
-- Exploring open-source
-- Learning modern technologies
+<div align="center">
 
-👯 Looking to collaborate on
-- Beginner-friendly projects
-- Web development ideas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Integrated+B.Tech+%2B+MBA+%40+ABV-IIITM+Gwalior;SDE+Intern+%40+Inforida+Technologies;Building+full-stack+apps+and+AI+agents;Angular+%C2%B7+React+%C2%B7+FastAPI+%C2%B7+Docker)](https://github.com/Suryanshu-01)
 
-🌱 Currently learning
-- Full-stack development
-- DSA & Git/GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suryanshu01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshu01)
+[![Email](https://img.shields.io/badge/Email-suryanshu01.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshu01.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Suryanshu--01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suryanshu-01)
 
-💬 Ask me about
-- Coding journey
-- Student developer life
-
-⚡ Fun fact
-I love turning ideas into projects 🚀
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshu01) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Suryanshu-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Suryanshu-01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suryanshu-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Suryanshu-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About
+
+I'm a student at **ABV-IIITM Gwalior** (Integrated B.Tech in IT + MBA, 2024–2029, CGPA 8.1) who likes shipping things end to end, from React and Angular front ends to FastAPI back ends and sandboxed AI systems.
+
+- 🏢 **SDE Intern at Inforida Technologies** (Jun–Sep 2026, remote): building on **Nucleus**, a school-management platform serving 250+ schools, with Angular, TypeScript and REST APIs. I worked on the Exam module (UI and API integration) and fixed a bug that mismatched WhatsApp message counts in the Communication module.
+- 🔬 Built **ReRun**, an autonomous agent that checks whether published ML research code reproduces its headline results.
+- 🧠 Part of the team behind **Aparichit**, a machine-unlearning toolkit and benchmark for language models.
+- 🎯 Led **Hackatron**, a 36-hour national-level hackathon at Infotsav.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔁 [ReRun](https://github.com/Suryanshu-01/ReRun)
+**Reproducibility agent for ML research code**
+
+An autonomous AI agent that checks whether published ML code reproduces its headline results.
+
+- 20-phase state machine with hard limits on steps, patch attempts and runtime
+- Untrusted code runs in hardened Docker sandboxes: no network, non-root, read-only filesystem, CPU/memory caps
+- Solver–Critic LLM design under a deterministic policy engine and 3 human approval gates; all 9 adversarial tests pass
+- SHA-256 evidence ledger and exportable reproduction kits
+- React + TypeScript console with live SSE telemetry over FastAPI; 319 automated tests
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [MediCompare](https://github.com/Suryanshu-01/MediCompare)
+**Healthcare discovery platform**
+
+A full-stack platform, deployed on Vercel and Render, to find nearby hospitals on a Mapbox map and compare doctors, services and test costs.
+
+- JWT role-based auth for patients, hospitals and admins, with admin verification of hospital documents
+- Hospital dashboard to add, activate/deactivate and update doctors and services
+- 1–10 doctor ratings feed hospital scores; compare 2–4 doctors side by side with a Smart Score (rating, experience, qualification, availability, fees)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧬 [Aparichit](https://github.com/Suryanshu-01/aparichit)
+**Machine-unlearning toolkit and benchmark for language models** (team project)
+
+- Unlearning algorithms: Gradient Difference, Fisher, Task Vectors and generic label fine-tuning
+- Benchmarked on TOFU with GPT-2 small
+- Evaluated with forget quality and membership-inference audits
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,py,dart&perline=6" alt="Languages"/><br/>
+<img src="https://skillicons.dev/icons?i=react,angular,flutter,tailwind&perline=4" alt="Frontend"/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite,firebase&perline=7" alt="Backend and databases"/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel&perline=5" alt="Tools"/>
+
+</div>
+
+| | |
+|---|---|
+| **Languages** | C++, C, JavaScript, TypeScript, Python, Dart |
+| **Frontend** | ReactJS, Angular, Flutter, Tailwind CSS |
+| **Backend & Databases** | Node.js, Express.js, FastAPI, REST APIs, MongoDB, MySQL, SQLite, Firebase Firestore |
+| **Tools** | Git, GitHub, Docker, Mapbox, Cloudinary, Figma |
+| **Core CS** | Data Structures, Algorithms, OOPs, DBMS, Computer Networks, Operating Systems |
+
+---
+
+## 🤝 Leadership
+
+- **Event Head, Hackatron** (Infotsav, ABV-IIITM Gwalior, Aug–Oct 2025): led planning and execution of a 36-hour national-level hackathon, coordinating sponsors, mentors, judges and alumni.
+- **Executive Member, Student Activity Council** (Mar 2025–Apr 2026): helped organize institute-level academic and technical events.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Suryanshu-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suryanshu-01&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaborations. Reach out on [LinkedIn](https://linkedin.com/in/suryanshu01) or [email](mailto:suryanshu01.dev@gmail.com).**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" width="100%" alt=""/>
